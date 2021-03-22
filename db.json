@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1338551789,
+      "username": "erzawansyah",
+      "status": true,
+      "history": [],
+      "stats": {
+        "total_questions": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "register_at": 1616370310997
+      }
+    }
+  ],
+  "sessions": [],
+  "questions": [
+    {
+      "id": 1,
+      "statement": "Isi dekrit Presiden 5 juli 1959 antara lain menetapkan?",
+      "choices": [
+        "A. Pembubaran PKI",
+        "B. Berlakunya kembali UUD 1945",
+        "C. Pembentukan kabinet Dwikora",
+        "D. Pembubaran DPR",
+        "E. Pengangkatan presiden seumur hidup"
+      ],
+      "answer": 1,
+      "explanation": "Dekrit presiden 5 Juli 1959 dikeluarkan oleh presiden Ir. Soekarno untuk menggantikan Undang Undang Dasar Sementara yang berlaku di Indonesia sejak 17 Agustus 1950.\n\nDekrit presiden 5 Juli 1959 dikeluarkan sebagai respon atas kegagalan konstituante dalam menyiapkan Undang Undang Baru, sekaligus memenuhi permintaan kebanyakan masyarakat yang ingin kembali ke UUD 1945."
+    },
+    {
+      "id": 2,
+      "statement": "Pancasila sebagai sumber nilai maksudnya ialah?",
+      "choices": [
+        "A. Kehidupan bangsa Indonesia harus sesuai dengan kepribadiannya",
+        "B. Masyarakat Indonesia yang maju adalah yang tinggi intelektualnya",
+        "C. Kita selalu berupaya menunjukkan bangsa dan negara",
+        "D. Yang menjadi ukuran baik buruknya sikap, perbuatan, dan tingkah laku bangsa Indonesia",
+        "E. Kemajuan bangsa Indonesia diukur dengan kepribadiannya"
+      ],
+      "answer": 3,
+      "explanation": "Dekrit presiden 5 Juli 1959 dikeluarkan oleh presiden Ir. Soekarno untuk menggantikan Undang Undang Dasar Sementara yang berlaku di Indonesia sejak 17 Agustus 1950.\n\nDekrit presiden 5 Juli 1959 dikeluarkan sebagai respon atas kegagalan konstituante dalam menyiapkan Undang Undang Baru, sekaligus memenuhi permintaan kebanyakan masyarakat yang ingin kembali ke UUD 1945."
+    }
+  ]
+}

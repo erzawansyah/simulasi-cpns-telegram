@@ -1,0 +1,20 @@
+{
+  "name": "simulasicpns_bot",
+  "version": "1.0.0",
+  "description": "BOT Telegram untuk simulasi CPNS",
+  "main": "bot.js",
+  "scripts": {
+    "start": "micro-bot"
+  },
+  "author": "Muhamad Erza Wansyah",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "lowdb": "^1.0.0",
+    "micro-bot": "^2.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
