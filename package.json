@@ -4,7 +4,7 @@
   "description": "BOT Telegram untuk simulasi CPNS",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "Muhamad Erza Wansyah",
   "license": "ISC",
