@@ -1,4 +1,10 @@
 const bot = require("./bot");
+const express = require('express');
+const expressApp = express();
+
+const PORT = process.env.PORT;
+const URL = process.env.URL;
+const BOT_TOKEN = process.env.BOT_TOKEN;
 
 // Menangkap error dan mengirimnya ke grup telegram
 bot.catch((err, ctx) => {
@@ -19,8 +25,24 @@ bot.catch((err, ctx) => {
   require(`./commands/${command}`);
 });
 
-// jalankan @sediksi_bot
-bot.launch();
+
+bot.telegram.setWebhook(`${URL}/bot${BOT_TOKEN}`);
+
+
+
+/*
+ your bot commands and all the other stuff on here ....
+*/
+// and at the end just start server on PORT
+
+
+expressApp.use(bot.webhookCallback(`/bot${BOT_TOKEN}`));
+expressApp.get("/", (req, res) => {
+  res.send("Hello World!");
+});
+expressApp.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
 
 // Enable graceful stop
 process.once("SIGINT", () => bot.stop("SIGINT"));
