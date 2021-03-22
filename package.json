@@ -2,10 +2,9 @@
   "name": "simulasicpns_bot",
   "version": "1.0.0",
   "description": "BOT Telegram untuk simulasi CPNS",
-  "main": "init.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "startdev": "nodemon index.js"
+    "start": "nodemon index.js"
   },
   "author": "Muhamad Erza Wansyah",
   "license": "ISC",

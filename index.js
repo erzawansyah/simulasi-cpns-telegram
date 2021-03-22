@@ -2,6 +2,7 @@ const bot = require("./bot");
 const express = require('express');
 const expressApp = express();
 
+
 const PORT = process.env.PORT;
 const URL = process.env.URL;
 const BOT_TOKEN = process.env.BOT_TOKEN;
@@ -26,7 +27,7 @@ bot.catch((err, ctx) => {
 });
 
 
-bot.telegram.setWebhook(`${URL}/bot${BOT_TOKEN}`);
+
 
 
 
@@ -35,7 +36,7 @@ bot.telegram.setWebhook(`${URL}/bot${BOT_TOKEN}`);
 */
 // and at the end just start server on PORT
 
-
+bot.telegram.setWebhook(`${URL}/bot${BOT_TOKEN}`);
 expressApp.use(bot.webhookCallback(`/bot${BOT_TOKEN}`));
 expressApp.get("/", (req, res) => {
   res.send("Hello World!");
@@ -43,6 +44,8 @@ expressApp.get("/", (req, res) => {
 expressApp.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
+
+bot.launch()
 
 // Enable graceful stop
 process.once("SIGINT", () => bot.stop("SIGINT"));
