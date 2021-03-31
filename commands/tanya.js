@@ -4,12 +4,19 @@ const db = require("../db");
 
 const state = new Context().state;
 bot.command(["tanya", "quiz"], (ctx) => {
-  state.question = db.question().random();
-  ctx.replyWithQuiz(state.question.statement, state.question.choices, {
-    correct_option_id: state.question.answer,
-    is_anonymous: false,
-    // explanation: state.question.explanation,
-  });
+  user = db.user(ctx.from.id);
+  status = user.me.value().status
+  if(status) {
+    state.question = db.question().random();
+    ctx.replyWithQuiz(state.question.statement, state.question.choices, {
+      correct_option_id: state.question.answer,
+      is_anonymous: false,
+      is_closed: true
+      // explanation: state.question.explanation,
+    });
+  } else {
+    ctx.reply("Kamu belum melakukan pendaftaran. Silahkan ketik /daftar untuk mulai mendapatkan pertanyaan")
+  }
 });
 
 bot.on("poll_answer", (ctx) => {

@@ -30,7 +30,8 @@ Ketikkan perintah /help untuk mendapatkan daftar perintah yang dapat digunakan.
     db.user(ctx.from.id).start(ctx.from.username)
     ctx.reply(`
 Selamat datang ${ctx.from.username} 👋
-Bot ini merupakan mitra yang dapat digunakan untuk mempermudah kamu membiasakan diri terhadap soal-soal CPNS. 
+Bot ini merupakan mitra yang dapat digunakan untuk mempermudah kamu membiasakan diri terhadap soal-soal CPNS.
+
     `);
   }
 });

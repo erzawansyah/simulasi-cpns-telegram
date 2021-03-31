@@ -5,6 +5,7 @@ const db = require("../db");
 bot.command('saya', (ctx) => {
     const user = db.user(ctx.from.id)
     const status = user.me.value().status
+    console.log(ctx.message);
 
     ctx.reply(`
 *INFORMASI AKUN*
