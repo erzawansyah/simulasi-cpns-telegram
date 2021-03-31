@@ -53,6 +53,7 @@ ${ctx.message.text}
 
 bot.telegram.setWebhook(`${URL}/bot${BOT_TOKEN}`);
 expressApp.use(bot.webhookCallback(`/bot${BOT_TOKEN}`));
+
 expressApp.get("/", (req, res) => {
   res.send("Eh buset");
 });
