@@ -1,0 +1,1857 @@
+[
+  {
+    "item_id": "skd110-001",
+    "category": "TWK",
+    "question": "Rumusan Pancasila yang sah dan berlaku sebagai dasar negara tercantum dalam ....",
+    "options": [
+      "Batang tubuh UUD 1945",
+      "Alinea keempat Pembukaan UUD 1945",
+      "Piagam Jakarta tanpa perubahan",
+      "Dekret Presiden 5 Juli 1959",
+      "Alinea pertama Pembukaan UUD 1945"
+    ],
+    "answer_idx": 1,
+    "explanation": "BPIP menjelaskan bahwa rumusan final Pancasila dituangkan dalam alinea keempat Pembukaan UUD 1945."
+  },
+  {
+    "item_id": "skd110-002",
+    "category": "TWK",
+    "question": "Tanggal yang ditetapkan sebagai Hari Lahir Pancasila adalah ....",
+    "options": [
+      "20 Mei",
+      "22 Juni",
+      "1 Juni",
+      "18 Agustus",
+      "1 Oktober"
+    ],
+    "answer_idx": 2,
+    "explanation": "Keputusan Presiden Nomor 24 Tahun 2016 menetapkan 1 Juni 1945 sebagai Hari Lahir Pancasila."
+  },
+  {
+    "item_id": "skd110-003",
+    "category": "TWK",
+    "question": "Piagam Jakarta dirumuskan pada tanggal ....",
+    "options": [
+      "29 Mei 1945",
+      "22 Juni 1945",
+      "17 Agustus 1945",
+      "18 Agustus 1945",
+      "1 Juni 1945"
+    ],
+    "answer_idx": 1,
+    "explanation": "BPIP mencatat rangkaian perumusan Pancasila pada 1 Juni, Piagam Jakarta pada 22 Juni, dan rumusan final pada 18 Agustus 1945."
+  },
+  {
+    "item_id": "skd110-004",
+    "category": "TWK",
+    "question": "Sumpah Pemuda merupakan keputusan Kongres Pemuda Kedua yang berlangsung pada ....",
+    "options": [
+      "20–21 Mei 1908",
+      "1–2 Juni 1945",
+      "27–28 Oktober 1928",
+      "17–18 Agustus 1945",
+      "30 April – 2 Mei 1926"
+    ],
+    "answer_idx": 2,
+    "explanation": "Museum Sumpah Pemuda menyebut Kongres Pemuda Kedua berlangsung pada 27–28 Oktober 1928."
+  },
+  {
+    "item_id": "skd110-005",
+    "category": "TWK",
+    "question": "Organisasi yang menggagas penyelenggaraan Kongres Pemuda Kedua adalah ....",
+    "options": [
+      "Budi Utomo",
+      "Perhimpunan Pelajar Pelajar Indonesia",
+      "Sarekat Islam",
+      "Indische Partij",
+      "Jong Java"
+    ],
+    "answer_idx": 1,
+    "explanation": "Kongres Pemuda Kedua digagas oleh Perhimpunan Pelajar Pelajar Indonesia atau PPPI."
+  },
+  {
+    "item_id": "skd110-006",
+    "category": "TWK",
+    "question": "Proklamasi Kemerdekaan Indonesia dibacakan di ....",
+    "options": [
+      "Lapangan Ikada",
+      "Gedung Pancasila",
+      "Jalan Pegangsaan Timur Nomor 56",
+      "Jalan Imam Bonjol Nomor 1",
+      "Istana Merdeka"
+    ],
+    "answer_idx": 2,
+    "explanation": "Proklamasi dibacakan pada 17 Agustus 1945 di Jalan Pegangsaan Timur 56, Jakarta."
+  },
+  {
+    "item_id": "skd110-007",
+    "category": "TWK",
+    "question": "Tokoh yang mengetik naskah Proklamasi setelah dirumuskan adalah ....",
+    "options": [
+      "Ahmad Soebardjo",
+      "Sayuti Melik",
+      "Sukarni",
+      "B.M. Diah",
+      "Wikana"
+    ],
+    "answer_idx": 1,
+    "explanation": "Modul sejarah Kemendikbud mencatat naskah Proklamasi diketik oleh Sayuti Melik."
+  },
+  {
+    "item_id": "skd110-008",
+    "category": "TWK",
+    "question": "Naskah Proklamasi ditandatangani atas nama bangsa Indonesia oleh ....",
+    "options": [
+      "Soekarno dan Ahmad Soebardjo",
+      "Mohammad Hatta dan Sayuti Melik",
+      "Soekarno dan Sukarni",
+      "Soekarno dan Mohammad Hatta",
+      "Soekarno dan Sutan Sjahrir"
+    ],
+    "answer_idx": 3,
+    "explanation": "Naskah Proklamasi ditandatangani Soekarno dan Mohammad Hatta atas nama bangsa Indonesia."
+  },
+  {
+    "item_id": "skd110-009",
+    "category": "TWK",
+    "question": "Salah satu keputusan PPKI pada 18 Agustus 1945 adalah ....",
+    "options": [
+      "Menetapkan UUD 1945 serta memilih Presiden dan Wakil Presiden",
+      "Membubarkan BPUPKI dan membentuk Panitia Sembilan",
+      "Menyelenggarakan Kongres Pemuda Kedua",
+      "Menetapkan Konstitusi Republik Indonesia Serikat",
+      "Membentuk Komite Nasional Indonesia Pusat"
+    ],
+    "answer_idx": 0,
+    "explanation": "Sidang PPKI 18 Agustus 1945 menetapkan UUD serta memilih Soekarno dan Mohammad Hatta sebagai Presiden dan Wakil Presiden."
+  },
+  {
+    "item_id": "skd110-010",
+    "category": "TWK",
+    "question": "Menurut Pasal 1 ayat (1) UUD NRI Tahun 1945, Indonesia adalah ....",
+    "options": [
+      "Negara serikat berbentuk republik",
+      "Negara kesatuan berbentuk republik",
+      "Negara kesatuan berbentuk monarki",
+      "Negara federal berbentuk parlementer",
+      "Negara kesatuan berbentuk parlementer"
+    ],
+    "answer_idx": 1,
+    "explanation": "Pasal 1 ayat (1) menyatakan Indonesia ialah negara kesatuan yang berbentuk republik."
+  },
+  {
+    "item_id": "skd110-011",
+    "category": "TWK",
+    "question": "Menurut UUD NRI Tahun 1945 setelah perubahan, kedaulatan berada di tangan rakyat dan ....",
+    "options": [
+      "Dilaksanakan sepenuhnya oleh Presiden",
+      "Dilaksanakan sepenuhnya oleh MPR",
+      "Dilaksanakan menurut Undang-Undang Dasar",
+      "Diserahkan kepada lembaga peradilan",
+      "Dilaksanakan sepenuhnya oleh DPR"
+    ],
+    "answer_idx": 2,
+    "explanation": "Ketentuan konstitusional menempatkan kedaulatan di tangan rakyat dan pelaksanaannya menurut UUD."
+  },
+  {
+    "item_id": "skd110-012",
+    "category": "TWK",
+    "question": "Pernyataan bahwa Indonesia adalah negara hukum terdapat dalam ....",
+    "options": [
+      "Pasal 1 ayat (1)",
+      "Pasal 1 ayat (2)",
+      "Pasal 2 ayat (1)",
+      "Pasal 1 ayat (3)",
+      "Pasal 27 ayat (1)"
+    ],
+    "answer_idx": 3,
+    "explanation": "Naskah UUD NRI Tahun 1945 memuat prinsip Indonesia sebagai negara hukum pada Pasal 1 ayat (3)."
+  },
+  {
+    "item_id": "skd110-013",
+    "category": "TWK",
+    "question": "Presiden dan Wakil Presiden dapat dipilih kembali dalam jabatan yang sama paling banyak untuk ....",
+    "options": [
+      "Tiga kali masa jabatan",
+      "Satu kali masa jabatan berikutnya",
+      "Waktu yang tidak dibatasi",
+      "Satu kali apabila disetujui DPR",
+      "Dua kali masa jabatan berikutnya"
+    ],
+    "answer_idx": 1,
+    "explanation": "UUD NRI Tahun 1945 membatasi pemilihan kembali dalam jabatan yang sama hanya untuk satu kali masa jabatan."
+  },
+  {
+    "item_id": "skd110-014",
+    "category": "TWK",
+    "question": "Usul perubahan pasal-pasal UUD dapat diagendakan apabila diajukan sekurang-kurangnya oleh ....",
+    "options": [
+      "Seperempat anggota DPR",
+      "Setengah anggota MPR",
+      "Sepertiga anggota MPR",
+      "Dua pertiga anggota DPD",
+      "Setengah anggota DPR"
+    ],
+    "answer_idx": 2,
+    "explanation": "Pasal 37 ayat (1) mensyaratkan usul diajukan sekurang-kurangnya oleh sepertiga anggota MPR."
+  },
+  {
+    "item_id": "skd110-015",
+    "category": "TWK",
+    "question": "Sidang MPR untuk mengubah pasal-pasal UUD harus dihadiri sekurang-kurangnya oleh ....",
+    "options": [
+      "Setengah anggota MPR",
+      "Dua pertiga anggota MPR",
+      "Tiga perempat anggota DPR",
+      "Seluruh anggota MPR",
+      "Sepertiga anggota MPR"
+    ],
+    "answer_idx": 1,
+    "explanation": "Pasal 37 ayat (3) mensyaratkan kehadiran sekurang-kurangnya dua pertiga anggota MPR."
+  },
+  {
+    "item_id": "skd110-016",
+    "category": "TWK",
+    "question": "Putusan perubahan pasal UUD harus disetujui sekurang-kurangnya oleh ....",
+    "options": [
+      "Setengah anggota yang hadir",
+      "Dua pertiga anggota yang hadir",
+      "Tiga perempat anggota DPR",
+      "Lima puluh persen ditambah satu dari seluruh anggota MPR",
+      "Dua pertiga anggota MPR"
+    ],
+    "answer_idx": 3,
+    "explanation": "Pasal 37 ayat (4) mensyaratkan persetujuan sekurang-kurangnya 50 persen ditambah satu anggota dari seluruh anggota MPR."
+  },
+  {
+    "item_id": "skd110-017",
+    "category": "TWK",
+    "question": "Bagian konstitusi yang secara tegas tidak dapat diubah adalah ....",
+    "options": [
+      "Bentuk Negara Kesatuan Republik Indonesia",
+      "Jumlah kementerian negara",
+      "Susunan kabinet",
+      "Masa sidang DPR",
+      "Bentuk pemerintahan republik"
+    ],
+    "answer_idx": 0,
+    "explanation": "Pasal 37 ayat (5) menyatakan bentuk NKRI tidak dapat diubah."
+  },
+  {
+    "item_id": "skd110-018",
+    "category": "TWK",
+    "question": "Dalam hierarki peraturan perundang-undangan, peraturan yang berada tepat setelah UUD NRI Tahun 1945 adalah ....",
+    "options": [
+      "Undang-Undang",
+      "Peraturan Pemerintah",
+      "Ketetapan MPR",
+      "Peraturan Presiden",
+      "Keputusan Presiden"
+    ],
+    "answer_idx": 2,
+    "explanation": "UU Nomor 12 Tahun 2011 menempatkan Ketetapan MPR setelah UUD NRI Tahun 1945 dalam hierarki peraturan."
+  },
+  {
+    "item_id": "skd110-019",
+    "category": "TWK",
+    "question": "Tindakan yang paling mencerminkan sila Persatuan Indonesia adalah ....",
+    "options": [
+      "Memaksakan pendapat kelompok mayoritas",
+      "Bekerja sama lintas suku untuk menangani bencana",
+      "Mengutamakan kelompok sendiri dalam pelayanan",
+      "Menghindari pergaulan dengan warga berbeda agama",
+      "Menghindari konflik dengan menuruti kehendak kelompok terbesar"
+    ],
+    "answer_idx": 1,
+    "explanation": "BPIP menempatkan Persatuan Indonesia sebagai sila ketiga dan menekankan Pancasila sebagai dasar hidup bersama dalam keberagaman."
+  },
+  {
+    "item_id": "skd110-020",
+    "category": "TWK",
+    "question": "Pengambilan keputusan melalui musyawarah untuk mencapai kesepakatan terutama mencerminkan sila ....",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer_idx": 3,
+    "explanation": "Rumusan sila keempat menegaskan kerakyatan yang dipimpin hikmat kebijaksanaan dalam permusyawaratan/perwakilan."
+  },
+  {
+    "item_id": "skd110-021",
+    "category": "TWK",
+    "question": "Dalam tim yang anggotanya berbeda suku dan agama, sikap paling sesuai dengan Bhinneka Tunggal Ika adalah ....",
+    "options": [
+      "Membagi tugas berdasarkan kompetensi tanpa diskriminasi",
+      "Menyerahkan semua keputusan kepada kelompok mayoritas",
+      "Menghindari diskusi tentang kebutuhan anggota minoritas",
+      "Membentuk kelompok kerja berdasarkan kesamaan suku",
+      "Meminta setiap anggota menyesuaikan diri dengan budaya mayoritas"
+    ],
+    "answer_idx": 0,
+    "explanation": "Kisi-kisi TWK menilai pemahaman dan pengamalan Pancasila, UUD 1945, NKRI, dan Bhinneka Tunggal Ika."
+  },
+  {
+    "item_id": "skd110-022",
+    "category": "TWK",
+    "question": "Bahasa negara Republik Indonesia adalah ....",
+    "options": [
+      "Bahasa Melayu",
+      "Seluruh bahasa daerah",
+      "Bahasa Indonesia",
+      "Bahasa yang ditetapkan pemerintah daerah",
+      "Bahasa ibu setiap warga negara"
+    ],
+    "answer_idx": 2,
+    "explanation": "UU Nomor 24 Tahun 2009 mengatur Bahasa Indonesia sebagai bahasa negara, bersama bendera, lambang negara, dan lagu kebangsaan."
+  },
+  {
+    "item_id": "skd110-023",
+    "category": "TWK",
+    "question": "Lambang negara Indonesia adalah ....",
+    "options": [
+      "Burung Rajawali",
+      "Garuda Pancasila",
+      "Bintang Nusantara",
+      "Elang Republik",
+      "Garuda Wisnu Kencana"
+    ],
+    "answer_idx": 1,
+    "explanation": "Lambang negara diatur dalam UU Nomor 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan."
+  },
+  {
+    "item_id": "skd110-024",
+    "category": "TWK",
+    "question": "Lagu kebangsaan Indonesia adalah ....",
+    "options": [
+      "Indonesia Raya",
+      "Bagimu Negeri",
+      "Garuda Pancasila",
+      "Satu Nusa Satu Bangsa",
+      "Maju Tak Gentar"
+    ],
+    "answer_idx": 0,
+    "explanation": "UU Nomor 24 Tahun 2009 mengatur lagu kebangsaan sebagai salah satu simbol identitas dan eksistensi NKRI."
+  },
+  {
+    "item_id": "skd110-025",
+    "category": "TWK",
+    "question": "Pegawai Aparatur Sipil Negara terdiri atas ....",
+    "options": [
+      "PNS dan anggota TNI",
+      "PNS dan pegawai BUMN",
+      "PPPK dan pegawai swasta",
+      "PNS dan PPPK",
+      "PNS, PPPK, dan pegawai honorer"
+    ],
+    "answer_idx": 3,
+    "explanation": "UU Nomor 20 Tahun 2023 menyatakan Pegawai ASN terdiri atas PNS dan PPPK."
+  },
+  {
+    "item_id": "skd110-026",
+    "category": "TWK",
+    "question": "Peran Pegawai ASN yang paling tepat adalah ....",
+    "options": [
+      "Menjalankan kepentingan partai yang berkuasa",
+      "Mengutamakan kepentingan pribadi selama target tercapai",
+      "Melaksanakan kebijakan dan pelayanan publik secara profesional",
+      "Membatasi akses publik terhadap informasi tanpa alasan",
+      "Mematuhi perintah atasan tanpa mempertimbangkan aturan"
+    ],
+    "answer_idx": 2,
+    "explanation": "Pegawai ASN berperan sebagai perencana, pelaksana, dan pengawas tugas pemerintahan melalui kebijakan dan pelayanan publik yang profesional."
+  },
+  {
+    "item_id": "skd110-027",
+    "category": "TWK",
+    "question": "Perilaku yang paling sesuai dengan prinsip netralitas ASN adalah ....",
+    "options": [
+      "Menggunakan fasilitas kantor untuk kampanye",
+      "Tidak memihak peserta pemilu dalam pelaksanaan tugas",
+      "Mengarahkan penerima layanan memilih calon tertentu",
+      "Membagikan materi kampanye melalui akun dinas",
+      "Mendukung calon petahana agar program berjalan lancar"
+    ],
+    "answer_idx": 1,
+    "explanation": "UU ASN menuntut pelayanan profesional, bebas dari intervensi politik, serta bersih dari KKN."
+  },
+  {
+    "item_id": "skd110-028",
+    "category": "TWK",
+    "question": "Seorang pegawai ditawari hadiah agar mempercepat layanan di luar prosedur. Tindakan paling berintegritas adalah ....",
+    "options": [
+      "Menolak, menjelaskan prosedur, dan melaporkan upaya tersebut",
+      "Menerima karena pelayanan tetap diselesaikan",
+      "Membagi hadiah dengan rekan kerja",
+      "Menunda keputusan sampai pemberi hadiah pergi",
+      "Menolak hadiah tetapi mempercepat layanan sebagai balas jasa"
+    ],
+    "answer_idx": 0,
+    "explanation": "Kisi-kisi TWK mendefinisikan integritas melalui kejujuran, ketangguhan, komitmen, dan konsistensi; UU ASN juga menekankan kebersihan dari KKN."
+  },
+  {
+    "item_id": "skd110-029",
+    "category": "TWK",
+    "question": "Saat sistem instansi diserang dan data publik terancam, bentuk bela negara yang paling relevan bagi pegawai TI adalah ....",
+    "options": [
+      "Menyebarkan detail kerentanan di media sosial",
+      "Mengabaikan serangan karena bukan ancaman fisik",
+      "Mematikan semua sistem tanpa koordinasi",
+      "Menjalankan prosedur respons insiden dan melindungi layanan negara",
+      "Melaporkan ke atasan lalu menunggu perintah tanpa bertindak"
+    ],
+    "answer_idx": 3,
+    "explanation": "Kisi-kisi TWK memaknai bela negara sebagai kemampuan berperan aktif mempertahankan eksistensi bangsa dan negara."
+  },
+  {
+    "item_id": "skd110-030",
+    "category": "TWK",
+    "question": "Kalimat yang paling efektif adalah ....",
+    "options": [
+      "Para peserta-peserta diwajibkan untuk hadir tepat waktu.",
+      "Agar supaya pelayanan meningkat, maka evaluasi dilakukan.",
+      "Peserta wajib hadir tepat waktu.",
+      "Evaluasi dilakukan demi untuk meningkatkan pelayanan.",
+      "Seluruh peserta-peserta diwajibkan hadir tepat waktu."
+    ],
+    "answer_idx": 2,
+    "explanation": "Bahasa negara termasuk materi TWK untuk menilai kemampuan menggunakan Bahasa Indonesia dalam kehidupan bermasyarakat, berbangsa, dan bernegara."
+  },
+  {
+    "item_id": "skd110-031",
+    "category": "TIU",
+    "question": "DOKTER : RUMAH SAKIT = GURU : ....",
+    "options": [
+      "Perpustakaan",
+      "Sekolah",
+      "Apotek",
+      "Pengadilan",
+      "Kelas"
+    ],
+    "answer_idx": 1,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-032",
+    "category": "TIU",
+    "question": "BUKU : DIBACA = MAKANAN : ....",
+    "options": [
+      "Dimasak",
+      "Dibeli",
+      "Dimakan",
+      "Disimpan",
+      "Disajikan"
+    ],
+    "answer_idx": 2,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-033",
+    "category": "TIU",
+    "question": "TERMOMETER : SUHU = TIMBANGAN : ....",
+    "options": [
+      "Panjang",
+      "Waktu",
+      "Kecepatan",
+      "Berat",
+      "Tinggi"
+    ],
+    "answer_idx": 3,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-034",
+    "category": "TIU",
+    "question": "ARSITEK : BANGUNAN = PENULIS : ....",
+    "options": [
+      "Buku",
+      "Kamera",
+      "Panggung",
+      "Lagu",
+      "Drama"
+    ],
+    "answer_idx": 0,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-035",
+    "category": "TIU",
+    "question": "Semua analis teliti. Semua orang yang teliti memeriksa data. Kesimpulan yang benar adalah ....",
+    "options": [
+      "Semua pemeriksa data adalah analis",
+      "Sebagian analis tidak memeriksa data",
+      "Semua analis memeriksa data",
+      "Tidak ada analis yang memeriksa data",
+      "Semua yang memeriksa data pasti teliti"
+    ],
+    "answer_idx": 2,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-036",
+    "category": "TIU",
+    "question": "Sebagian peneliti adalah programmer. Semua programmer mampu menulis kode. Kesimpulan yang sah adalah ....",
+    "options": [
+      "Semua peneliti mampu menulis kode",
+      "Sebagian peneliti mampu menulis kode",
+      "Tidak ada peneliti yang mampu menulis kode",
+      "Semua penulis kode adalah peneliti",
+      "Semua programmer adalah peneliti"
+    ],
+    "answer_idx": 1,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-037",
+    "category": "TIU",
+    "question": "Tidak ada arsiparis yang ceroboh. Rina adalah arsiparis. Kesimpulan yang tepat adalah ....",
+    "options": [
+      "Rina tidak ceroboh",
+      "Rina pasti peneliti",
+      "Semua orang tidak ceroboh",
+      "Sebagian arsiparis ceroboh",
+      "Semua yang tidak ceroboh adalah arsiparis"
+    ],
+    "answer_idx": 0,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-038",
+    "category": "TIU",
+    "question": "Semua supervisor adalah pegawai. Sebagian pegawai adalah musisi. Kesimpulan tentang supervisor dan musisi adalah ....",
+    "options": [
+      "Semua supervisor adalah musisi",
+      "Tidak ada supervisor yang musisi",
+      "Sebagian supervisor pasti musisi",
+      "Tidak dapat ditentukan",
+      "Sebagian musisi pasti supervisor"
+    ],
+    "answer_idx": 3,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-039",
+    "category": "TIU",
+    "question": "Empat laporan—P, Q, R, dan S—diperiksa berurutan. P harus sebelum Q, R harus sesudah Q, dan S harus sebelum P. Urutan yang mungkin adalah ....",
+    "options": [
+      "P–S–Q–R",
+      "S–P–Q–R",
+      "S–Q–P–R",
+      "Q–P–S–R",
+      "S–P–R–Q"
+    ],
+    "answer_idx": 1,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-040",
+    "category": "TIU",
+    "question": "Andi lebih tinggi daripada Budi. Budi lebih tinggi daripada Citra. Deni lebih pendek daripada Citra. Siapa yang paling tinggi?",
+    "options": [
+      "Andi",
+      "Budi",
+      "Citra",
+      "Deni",
+      "Tidak dapat ditentukan"
+    ],
+    "answer_idx": 0,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-041",
+    "category": "TIU",
+    "question": "Hasil dari 48 ÷ 6 × 5 adalah ....",
+    "options": [
+      "8",
+      "30",
+      "40",
+      "240",
+      "1,6"
+    ],
+    "answer_idx": 2,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-042",
+    "category": "TIU",
+    "question": "Nilai 15% dari 320 adalah ....",
+    "options": [
+      "32",
+      "48",
+      "52",
+      "64",
+      "47"
+    ],
+    "answer_idx": 1,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-043",
+    "category": "TIU",
+    "question": "Rasio pegawai laki-laki dan perempuan adalah 3 : 5. Jika jumlah seluruh pegawai 64 orang, jumlah pegawai perempuan adalah ....",
+    "options": [
+      "24",
+      "32",
+      "36",
+      "40",
+      "38"
+    ],
+    "answer_idx": 3,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-044",
+    "category": "TIU",
+    "question": "Rata-rata lima bilangan adalah 18. Jika empat bilangan pertama berjumlah 67, bilangan kelima adalah ....",
+    "options": [
+      "18",
+      "20",
+      "23",
+      "27",
+      "13"
+    ],
+    "answer_idx": 2,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-045",
+    "category": "TIU",
+    "question": "Jika 3x + 7 = 28, nilai x adalah ....",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "11",
+      "6"
+    ],
+    "answer_idx": 1,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-046",
+    "category": "TIU",
+    "question": "Sebuah kendaraan menempuh 180 km dalam 3 jam. Kecepatan rata-ratanya adalah ....",
+    "options": [
+      "45 km/jam",
+      "50 km/jam",
+      "60 km/jam",
+      "90 km/jam",
+      "30"
+    ],
+    "answer_idx": 2,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-047",
+    "category": "TIU",
+    "question": "Sebuah barang berharga Rp250.000 mendapat diskon 20%. Harga setelah diskon adalah ....",
+    "options": [
+      "Rp180.000",
+      "Rp200.000",
+      "Rp210.000",
+      "Rp230.000",
+      "Rp225.000"
+    ],
+    "answer_idx": 1,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-048",
+    "category": "TIU",
+    "question": "Sebuah barang dibeli Rp160.000 dan dijual Rp200.000. Persentase keuntungan terhadap harga beli adalah ....",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "40%",
+      "80%"
+    ],
+    "answer_idx": 1,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-049",
+    "category": "TIU",
+    "question": "Hasil dari 3/4 + 2/3 adalah ....",
+    "options": [
+      "5/7",
+      "13/12",
+      "17/12",
+      "5/12",
+      "17/7"
+    ],
+    "answer_idx": 2,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-050",
+    "category": "TIU",
+    "question": "KPK dari 12 dan 18 adalah ....",
+    "options": [
+      "6",
+      "24",
+      "30",
+      "36",
+      "18"
+    ],
+    "answer_idx": 3,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-051",
+    "category": "TIU",
+    "question": "Angka berikutnya pada deret 2, 6, 12, 20, 30, ... adalah ....",
+    "options": [
+      "36",
+      "40",
+      "42",
+      "44",
+      "56"
+    ],
+    "answer_idx": 2,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-052",
+    "category": "TIU",
+    "question": "Angka berikutnya pada deret 81, 27, 9, 3, ... adalah ....",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "6",
+      "1/3"
+    ],
+    "answer_idx": 1,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-053",
+    "category": "TIU",
+    "question": "Angka berikutnya pada deret 3, 4, 7, 11, 18, 29, ... adalah ....",
+    "options": [
+      "40",
+      "43",
+      "47",
+      "51",
+      "58"
+    ],
+    "answer_idx": 2,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-054",
+    "category": "TIU",
+    "question": "Usia ayah tiga kali usia anak. Jika jumlah usia mereka 64 tahun, usia anak adalah ....",
+    "options": [
+      "14 tahun",
+      "16 tahun",
+      "18 tahun",
+      "20 tahun",
+      "48 tahun"
+    ],
+    "answer_idx": 1,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-055",
+    "category": "TIU",
+    "question": "Lima pekerja menyelesaikan pekerjaan dalam 12 hari dengan produktivitas sama. Jika dikerjakan oleh 10 pekerja, waktu yang dibutuhkan adalah ....",
+    "options": [
+      "5 hari",
+      "6 hari",
+      "10 hari",
+      "24 hari",
+      "7 hari"
+    ],
+    "answer_idx": 1,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-056",
+    "category": "TIU",
+    "question": "Harga tiga buku dan dua pena adalah Rp54.000. Jika satu buku berharga Rp14.000, harga satu pena adalah ....",
+    "options": [
+      "Rp5.000",
+      "Rp6.000",
+      "Rp7.000",
+      "Rp8.000",
+      "Rp12.000"
+    ],
+    "answer_idx": 1,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-057",
+    "category": "TIU",
+    "question": "Dalam rapat terdapat 24 orang. Sebanyak 3/8 peserta berasal dari unit A. Jumlah peserta dari unit A adalah ....",
+    "options": [
+      "6 orang",
+      "8 orang",
+      "9 orang",
+      "12 orang",
+      "15 orang"
+    ],
+    "answer_idx": 2,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-058",
+    "category": "TIU",
+    "question": "Sebuah tangki terisi 2/5 bagian. Setelah ditambah 36 liter, tangki menjadi 4/5 bagian. Kapasitas tangki adalah ....",
+    "options": [
+      "72 liter",
+      "80 liter",
+      "90 liter",
+      "120 liter",
+      "180 liter"
+    ],
+    "answer_idx": 2,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-059",
+    "category": "TIU",
+    "question": "Perhatikan pola arah: ↑, →, ↓, ←, ↑, .... Simbol berikutnya adalah ....",
+    "options": [
+      "←",
+      "↑",
+      "→",
+      "↓",
+      "↗"
+    ],
+    "answer_idx": 2,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-060",
+    "category": "TIU",
+    "question": "Perhatikan pola: ○, ●, ○, ●, ○, .... Simbol berikutnya adalah ....",
+    "options": [
+      "●",
+      "○",
+      "□",
+      "■",
+      "◐"
+    ],
+    "answer_idx": 0,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-061",
+    "category": "TIU",
+    "question": "Perhatikan pola: ▲, ▲▲, ▲▲▲, .... Bentuk berikutnya adalah ....",
+    "options": [
+      "▲▲",
+      "▲▲▲",
+      "▲▲▲▲",
+      "▲▲▲▲▲",
+      "▲▲▲▲▲▲"
+    ],
+    "answer_idx": 2,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-062",
+    "category": "TIU",
+    "question": "Jika hubungan ■ → □ adalah perubahan dari isi penuh menjadi kosong, pasangan yang sepadan adalah ....",
+    "options": [
+      "● → ○",
+      "○ → ●",
+      "▲ → ■",
+      "□ → ■",
+      "●→■"
+    ],
+    "answer_idx": 0,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-063",
+    "category": "TIU",
+    "question": "Manakah yang berbeda dari tiga simbol lainnya?",
+    "options": [
+      "△",
+      "□",
+      "○",
+      "▲",
+      "◇"
+    ],
+    "answer_idx": 3,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-064",
+    "category": "TIU",
+    "question": "Perhatikan pola jumlah sisi: segitiga, persegi, segilima, .... Bentuk berikutnya adalah ....",
+    "options": [
+      "Lingkaran",
+      "Segitiga",
+      "Segienam",
+      "Segidelapan",
+      "Segilima"
+    ],
+    "answer_idx": 2,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-065",
+    "category": "TIU",
+    "question": "Jika sebuah panah ↑ diputar 180 derajat, hasilnya adalah ....",
+    "options": [
+      "↑",
+      "→",
+      "↓",
+      "←",
+      "↕"
+    ],
+    "answer_idx": 2,
+    "explanation": ""
+  },
+  {
+    "item_id": "skd110-066",
+    "category": "TKP",
+    "question": "Seorang warga lanjut usia kesulitan mengisi formulir digital. Sikap Anda adalah ....",
+    "options": [
+      "Memintanya pulang dan kembali bersama keluarga",
+      "Mengisi seluruh formulir tanpa menjelaskan apa pun",
+      "Mendampingi dengan sabar sambil memastikan data dan persetujuannya benar",
+      "Mendahulukan warga lain karena prosesnya akan lama",
+      "Meminta bantuan petugas pendamping khusus untuk membantunya, sambil memastikan prosesnya berjalan dengan benar"
+    ],
+    "answer_idx": 2,
+    "explanation": "pelayanan publik harus memenuhi kebutuhan layanan, sedangkan TKP menilai orientasi pelayanan publik.",
+    "scores": [
+      1,
+      3,
+      5,
+      2,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-067",
+    "category": "TKP",
+    "question": "Antrean layanan panjang karena satu loket mengalami gangguan. Anda sebaiknya ....",
+    "options": [
+      "Menjelaskan gangguan, mengatur antrean, dan mengaktifkan alternatif layanan sesuai prosedur",
+      "Membiarkan warga menunggu tanpa informasi",
+      "Menutup seluruh loket hingga sistem pulih",
+      "Meminta warga menyampaikan protes melalui media sosial",
+      "Melanjutkan layanan dengan loket yang tersedia, membatasi penerimaan warga hari itu, dan memberi nomor antrean lanjutan untuk hari berikutnya"
+    ],
+    "answer_idx": 0,
+    "explanation": "penyelenggaraan dan pengelolaan pengaduan merupakan bagian dari pelayanan publik; TKP menguji orientasi pelayanan.",
+    "scores": [
+      5,
+      2,
+      4,
+      1,
+      3
+    ]
+  },
+  {
+    "item_id": "skd110-068",
+    "category": "TKP",
+    "question": "Seorang kerabat meminta didahulukan dalam antrean pelayanan. Tindakan Anda adalah ....",
+    "options": [
+      "Mendahulukannya agar hubungan keluarga tetap baik",
+      "Menolak dengan sopan dan tetap mengikuti urutan serta prioritas resmi",
+      "Meminta rekan kerja melayaninya diam-diam",
+      "Melayaninya setelah jam kerja tanpa pencatatan",
+      "Menjelaskan bahwa hubungan keluarga bukan alasan untuk didahulukan; bila ia termasuk kelompok prioritas resmi (lansia, disabilitas, ibu hamil), barulah dilayani melalui jalur prioritas sesuai ketentuan"
+    ],
+    "answer_idx": 1,
+    "explanation": "pelayanan publik dan profesionalisme ASN harus bebas dari perlakuan istimewa serta KKN.",
+    "scores": [
+      1,
+      4,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "item_id": "skd110-069",
+    "category": "TKP",
+    "question": "Warga marah karena tidak memahami alasan permohonannya ditolak. Anda sebaiknya ....",
+    "options": [
+      "Memintanya membaca aturan sendiri",
+      "Menghentikan percakapan karena ia marah",
+      "Menyalahkan unit lain",
+      "Mendengarkan, menjelaskan dasar keputusan, dan menawarkan langkah perbaikan atau pengaduan",
+      "Tetap tenang, memintanya menyampaikan keberatan dengan baik, dan bila emosi belum reda, melibatkan atasan atau rekan untuk membantu menemukan solusi"
+    ],
+    "answer_idx": 3,
+    "explanation": "UU Pelayanan Publik mengatur hak, kewajiban, penyelenggaraan layanan, dan penyelesaian pengaduan.",
+    "scores": [
+      2,
+      3,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-070",
+    "category": "TKP",
+    "question": "Anda menemukan informasi persyaratan layanan di situs berbeda dengan pengumuman di kantor. Tindakan terbaik adalah ....",
+    "options": [
+      "Menggunakan informasi yang paling mudah bagi petugas",
+      "Membiarkan perbedaan sampai ada keluhan",
+      "Memverifikasi aturan terbaru lalu menyelaraskan seluruh kanal informasi",
+      "Menghapus semua informasi daring",
+      "Memasang pengumuman koreksi sementara di situs dan loket sambil menunggu hasil verifikasi aturan resmi"
+    ],
+    "answer_idx": 2,
+    "explanation": "orientasi pelayanan publik dan profesionalisme termasuk kompetensi yang dinilai dalam TKP.",
+    "scores": [
+      3,
+      1,
+      5,
+      2,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-071",
+    "category": "TKP",
+    "question": "Pemohon penyandang disabilitas datang ketika fasilitas akses sedang rusak. Anda sebaiknya ....",
+    "options": [
+      "Menyediakan bantuan dan alternatif akses yang aman tanpa mengurangi hak layanan",
+      "Memintanya menunggu sampai fasilitas diperbaiki beberapa hari lagi",
+      "Menyarankan orang lain mewakili tanpa memeriksa ketentuan",
+      "Mengarahkan ke instansi lain meskipun bukan kewenangannya",
+      "Melaporkan kerusakan fasilitas ke unit pengelola agar segera diperbaiki, dan untuk sementara mengarahkan warga ke titik layanan terdekat yang aksesibel"
+    ],
+    "answer_idx": 0,
+    "explanation": "pelayanan publik mencakup pemenuhan kebutuhan pelayanan dan harus diselenggarakan sesuai hak masyarakat.",
+    "scores": [
+      5,
+      2,
+      3,
+      1,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-072",
+    "category": "TKP",
+    "question": "Anda menerima keluhan yang sebenarnya menjadi kewenangan unit lain. Respons terbaik adalah ....",
+    "options": [
+      "Menyatakan bahwa masalah tersebut bukan urusan Anda",
+      "Mencatat keluhan, menjelaskan kewenangan, dan membantu menghubungkan ke unit yang tepat",
+      "Menjanjikan penyelesaian sendiri meskipun tidak berwenang",
+      "Mengabaikannya agar warga mencari informasi sendiri",
+      "Meneruskan keluhan ke unit berwenang melalui kanal internal resmi dan memastikan ada tindak lanjutnya"
+    ],
+    "answer_idx": 1,
+    "explanation": "penyelesaian pengaduan merupakan bagian dari kerangka pelayanan publik.",
+    "scores": [
+      2,
+      5,
+      3,
+      1,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-073",
+    "category": "TKP",
+    "question": "Target waktu pelayanan terancam tidak tercapai karena dokumen pemohon tidak lengkap. Anda sebaiknya ....",
+    "options": [
+      "Meloloskan permohonan agar target terpenuhi",
+      "Menolak tanpa penjelasan",
+      "Menyimpan permohonan tanpa status",
+      "Menjelaskan kekurangan secara rinci dan membantu pemohon memahami cara melengkapinya",
+      "Menerbitkan pemberitahuan tertulis mengenai dokumen yang kurang beserta batas waktu pelengkapannya, lalu menindaklanjuti sesuai ketentuan"
+    ],
+    "answer_idx": 3,
+    "explanation": "profesionalisme dan pelayanan publik menjadi materi TKP, sementara UU Pelayanan Publik mengatur hak dan kewajiban dalam layanan.",
+    "scores": [
+      3,
+      2,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-074",
+    "category": "TKP",
+    "question": "Anda memerlukan data dari unit lain untuk menyelesaikan laporan mendesak. Tindakan terbaik adalah ....",
+    "options": [
+      "Mengirim permintaan jelas, menjelaskan tenggat dan tujuan, lalu berkoordinasi secara profesional",
+      "Menunggu unit lain menawarkan bantuan",
+      "Mengambil data tanpa izin",
+      "Menyalahkan unit lain sebelum menghubunginya",
+      "Menghubungi langsung penanggung jawab data di unit tersebut untuk menjelaskan urgensinya, disertai surat permintaan resmi"
+    ],
+    "answer_idx": 0,
+    "explanation": "jejaring kerja dan profesionalisme termasuk dimensi TKP.",
+    "scores": [
+      5,
+      3,
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-075",
+    "category": "TKP",
+    "question": "Rekan dari instansi lain menawarkan kolaborasi, tetapi tujuannya belum jelas. Anda sebaiknya ....",
+    "options": [
+      "Langsung menerima agar jaringan bertambah",
+      "Menolak semua kerja sama eksternal",
+      "Mengklarifikasi tujuan, peran, manfaat publik, risiko, dan dasar kewenangannya",
+      "Menyerahkan keputusan kepada rekan tanpa informasi",
+      "Meminta proposal tertulis atau kajian awal mengenai kerja sama tersebut sebelum mengambil keputusan"
+    ],
+    "answer_idx": 2,
+    "explanation": "TKP menilai kemampuan membangun jejaring kerja sekaligus profesionalisme.",
+    "scores": [
+      4,
+      1,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "item_id": "skd110-076",
+    "category": "TKP",
+    "question": "Dalam proyek lintas unit, dua anggota berselisih tentang pembagian tugas. Anda sebaiknya ....",
+    "options": [
+      "Membiarkan mereka menyelesaikan sendiri meskipun proyek terhambat",
+      "Memfasilitasi diskusi berdasarkan tujuan, kompetensi, dan beban kerja",
+      "Memihak anggota yang lebih senior",
+      "Mengambil alih seluruh tugas",
+      "Mengusulkan pembagian tugas sementara berdasarkan masukan kedua pihak, lalu meninjaunya bersama setelah berjalan beberapa waktu"
+    ],
+    "answer_idx": 1,
+    "explanation": "jejaring kerja dan profesionalisme merupakan materi TKP.",
+    "scores": [
+      2,
+      5,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-077",
+    "category": "TKP",
+    "question": "Rekan baru belum mengenal pihak-pihak yang terkait dengan pekerjaannya. Anda sebaiknya ....",
+    "options": [
+      "Membiarkannya membangun jaringan sendiri",
+      "Memberinya daftar nama tanpa konteks",
+      "Mengambil alih semua komunikasinya",
+      "Memperkenalkan pemangku kepentingan relevan dan menjelaskan etika koordinasi",
+      "Mengajaknya mengikuti rapat atau kunjungan kerja agar ia dapat berkenalan langsung dengan para pemangku kepentingan terkait"
+    ],
+    "answer_idx": 3,
+    "explanation": "kemampuan membangun jejaring kerja dinilai dalam TKP.",
+    "scores": [
+      1,
+      3,
+      2,
+      5,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-078",
+    "category": "TKP",
+    "question": "Mitra kerja lambat merespons pesan penting. Langkah terbaik adalah ....",
+    "options": [
+      "Menindaklanjuti melalui kanal resmi lain, menyebut kebutuhan dan tenggat secara jelas",
+      "Mengunggah keluhan tentang mitra ke media sosial",
+      "Mengirim pesan bernada mengancam",
+      "Menghapus mitra dari proyek tanpa koordinasi",
+      "Mengusulkan pertemuan singkat untuk membahas kendala komunikasi dan menyepakati pola koordinasi yang lebih baik"
+    ],
+    "answer_idx": 0,
+    "explanation": "jejaring kerja dan profesionalisme termasuk materi yang dinilai dalam TKP.",
+    "scores": [
+      5,
+      2,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-079",
+    "category": "TKP",
+    "question": "Anda memperoleh kontak pejabat melalui hubungan pribadi. Untuk kepentingan dinas, Anda sebaiknya ....",
+    "options": [
+      "Menghubungi kapan saja melalui nomor pribadinya",
+      "Meminta bantuan khusus di luar prosedur",
+      "Menggunakan kanal resmi dan menjaga batas antara relasi pribadi dan urusan dinas",
+      "Menyebarkan nomor tersebut kepada semua rekan",
+      "Meminta pihak yang memberikan kontak untuk mengenalkan Anda secara resmi sebelum menghubunginya untuk urusan dinas"
+    ],
+    "answer_idx": 2,
+    "explanation": "profesionalisme ASN dan jejaring kerja harus dijalankan untuk kepentingan tugas, bukan kepentingan pribadi.",
+    "scores": [
+      4,
+      1,
+      5,
+      2,
+      3
+    ]
+  },
+  {
+    "item_id": "skd110-080",
+    "category": "TKP",
+    "question": "Kolaborasi antarlembaga selesai dengan baik. Tindakan lanjutan terbaik adalah ....",
+    "options": [
+      "Menghentikan seluruh komunikasi",
+      "Mendokumentasikan hasil, mengevaluasi kerja sama, dan menjaga hubungan profesional",
+      "Mengklaim hasil sebagai keberhasilan unit sendiri",
+      "Menyimpan seluruh pengetahuan pada satu orang",
+      "Menyelenggarakan pertemuan penutupan untuk menyampaikan apresiasi dan menjajaki peluang kerja sama lanjutan"
+    ],
+    "answer_idx": 1,
+    "explanation": "jejaring kerja dan profesionalisme termasuk kompetensi TKP.",
+    "scores": [
+      1,
+      5,
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-081",
+    "category": "TKP",
+    "question": "Anggota tim menjadwalkan rapat pada waktu ibadah sebagian rekan. Sikap terbaik adalah ....",
+    "options": [
+      "Menganggap semua orang harus menyesuaikan",
+      "Membatalkan seluruh rapat permanen",
+      "Mengeluarkan rekan yang berhalangan",
+      "Mencari jadwal alternatif yang tetap memenuhi kebutuhan kerja dan menghormati semua anggota",
+      "Tetap melaksanakan rapat sesuai kebutuhan, tetapi menyediakan notulen lengkap dan memberi kesempatan bagi yang berhalangan untuk menyampaikan masukan"
+    ],
+    "answer_idx": 3,
+    "explanation": "sosial budaya merupakan dimensi TKP; Pancasila dan Bhinneka Tunggal Ika menuntun kehidupan bersama dalam keberagaman.",
+    "scores": [
+      4,
+      2,
+      1,
+      5,
+      3
+    ]
+  },
+  {
+    "item_id": "skd110-082",
+    "category": "TKP",
+    "question": "Rekan menertawakan logat daerah anggota tim. Anda sebaiknya ....",
+    "options": [
+      "Menghentikan perilaku tersebut dan menegaskan komunikasi yang saling menghormati",
+      "Ikut tertawa agar suasana cair",
+      "Meminta korban mengubah logatnya",
+      "Mengabaikannya karena hanya bercanda",
+      "Menegur pelaku secara pribadi agar tidak mempermalukannya, lalu menegaskan pentingnya komunikasi yang saling menghormati"
+    ],
+    "answer_idx": 0,
+    "explanation": "dimensi sosial budaya TKP dan semangat Bhinneka Tunggal Ika menekankan penghormatan atas keberagaman.",
+    "scores": [
+      5,
+      2,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-083",
+    "category": "TKP",
+    "question": "Anda ditempatkan di daerah dengan kebiasaan sosial berbeda. Langkah terbaik adalah ....",
+    "options": [
+      "Memaksakan kebiasaan asal karena dianggap lebih baik",
+      "Menolak berinteraksi di luar kantor",
+      "Mempelajari budaya setempat sambil tetap menjalankan aturan dan etika ASN",
+      "Mengikuti seluruh kebiasaan meskipun melanggar hukum",
+      "Menjalin komunikasi dengan tokoh masyarakat setempat untuk memahami adat dan membangun kepercayaan"
+    ],
+    "answer_idx": 2,
+    "explanation": "sosial budaya dan profesionalisme termasuk dimensi TKP.",
+    "scores": [
+      2,
+      3,
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-084",
+    "category": "TKP",
+    "question": "Dalam penyusunan program, kelompok minoritas belum pernah diajak berkonsultasi. Anda sebaiknya ....",
+    "options": [
+      "Melanjutkan karena jumlah mereka kecil",
+      "Membuka ruang partisipasi yang aksesibel dan mempertimbangkan kebutuhan mereka",
+      "Meminta kelompok mayoritas mewakili seluruh aspirasi",
+      "Menghapus program untuk menghindari perbedaan",
+      "Mengadakan diskusi kelompok terarah (FGD) atau kunjungan langsung untuk menyerap aspirasi kelompok minoritas tersebut"
+    ],
+    "answer_idx": 1,
+    "explanation": "pelayanan publik, sosial budaya, dan prinsip nondiskriminasi merupakan landasan respons yang inklusif.",
+    "scores": [
+      2,
+      5,
+      3,
+      1,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-085",
+    "category": "TKP",
+    "question": "Rekan menyampaikan stereotip negatif terhadap kelompok tertentu. Respons terbaik adalah ....",
+    "options": [
+      "Membiarkan karena pendapat pribadi",
+      "Menyebarkannya sebagai bahan diskusi",
+      "Membalas dengan stereotip kelompok lain",
+      "Mengoreksi secara proporsional, mengajak kembali pada fakta, dan mencegah diskriminasi",
+      "Mengingatkan secara langsung sekali; jika perilaku diskriminatif berlanjut, melaporkannya melalui jalur resmi"
+    ],
+    "answer_idx": 3,
+    "explanation": "TKP menilai sosial budaya dan anti-radikalisme, sedangkan TWK menilai pengamalan Bhinneka Tunggal Ika.",
+    "scores": [
+      3,
+      1,
+      2,
+      5,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-086",
+    "category": "TKP",
+    "question": "Tim Anda terdiri atas anggota dari berbagai usia dan latar pendidikan. Cara memaksimalkan kerja tim adalah ....",
+    "options": [
+      "Membagi peran berdasarkan kompetensi dan menyediakan kesempatan belajar yang setara",
+      "Memberi seluruh tugas penting kepada anggota termuda",
+      "Menempatkan anggota senior hanya pada tugas administratif",
+      "Membentuk kelompok berdasarkan latar belakang yang sama",
+      "Memasangkan anggota senior dan junior sebagai mentor-mentee agar pengalaman dan perspektif baru saling melengkapi"
+    ],
+    "answer_idx": 0,
+    "explanation": "dimensi sosial budaya, jejaring kerja, dan profesionalisme terdapat dalam kisi-kisi TKP.",
+    "scores": [
+      5,
+      2,
+      3,
+      1,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-087",
+    "category": "TKP",
+    "question": "Warga menggunakan bahasa Indonesia yang terbatas saat meminta layanan. Anda sebaiknya ....",
+    "options": [
+      "Menolak melayani sampai ia fasih",
+      "Memintanya menandatangani dokumen tanpa penjelasan",
+      "Menggunakan bahasa sederhana atau bantuan komunikasi yang sah sambil memastikan pemahamannya",
+      "Menyerahkan urusan kepada warga lain",
+      "Meminta bantuan penerjemah atau petugas pendamping bahasa yang tersedia agar komunikasi berjalan jelas"
+    ],
+    "answer_idx": 2,
+    "explanation": "pelayanan publik dan sosial budaya merupakan materi TKP; bahasa Indonesia berkedudukan sebagai bahasa persatuan dan negara.",
+    "scores": [
+      2,
+      1,
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-088",
+    "category": "TKP",
+    "question": "Anda menerima surel dengan lampiran mencurigakan yang mengatasnamakan pimpinan. Tindakan terbaik adalah ....",
+    "options": [
+      "Membuka lampiran agar cepat mengetahui isinya",
+      "Tidak membuka, memverifikasi pengirim, dan melaporkan melalui prosedur keamanan",
+      "Meneruskannya kepada semua rekan",
+      "Membalas dengan kata sandi akun",
+      "Menghapus surel tersebut dan memblokir alamat pengirimnya"
+    ],
+    "answer_idx": 1,
+    "explanation": "teknologi informasi dan komunikasi merupakan dimensi TKP, yang perlu diterapkan secara profesional dan aman.",
+    "scores": [
+      2,
+      5,
+      4,
+      1,
+      3
+    ]
+  },
+  {
+    "item_id": "skd110-089",
+    "category": "TKP",
+    "question": "Dokumen kerja berisi data pribadi harus dibagikan kepada tim terbatas. Anda sebaiknya ....",
+    "options": [
+      "Mengunggahnya ke tautan publik",
+      "Mengirimnya melalui akun pribadi tanpa perlindungan",
+      "Menyalinnya ke perangkat umum",
+      "Menggunakan kanal resmi dengan kontrol akses sesuai kebutuhan",
+      "Menyensor atau menyamarkan data pribadi yang tidak diperlukan tim sebelum dokumen dibagikan"
+    ],
+    "answer_idx": 3,
+    "explanation": "dimensi TIK dan profesionalisme termasuk materi TKP.",
+    "scores": [
+      1,
+      4,
+      2,
+      5,
+      3
+    ]
+  },
+  {
+    "item_id": "skd110-090",
+    "category": "TKP",
+    "question": "Sistem baru diterapkan, tetapi beberapa rekan belum mampu menggunakannya. Anda sebaiknya ....",
+    "options": [
+      "Membantu pelatihan singkat dan membuat panduan praktis sesuai prosedur",
+      "Menyebut mereka tidak kompeten",
+      "Menggunakan sistem lama secara diam-diam",
+      "Mengambil alih seluruh pekerjaan mereka tanpa transfer pengetahuan",
+      "Menjadi pendamping bagi rekan yang kesulitan selama masa transisi hingga mereka mandiri menggunakan sistem baru"
+    ],
+    "answer_idx": 0,
+    "explanation": "TIK dan profesionalisme merupakan dimensi TKP.",
+    "scores": [
+      5,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-091",
+    "category": "TKP",
+    "question": "Anda menemukan kesalahan data pada dashboard publik. Tindakan terbaik adalah ....",
+    "options": [
+      "Mengubah angka tanpa dokumentasi",
+      "Menghapus seluruh dashboard",
+      "Memverifikasi sumber, mengoreksi melalui mekanisme resmi, dan mendokumentasikan perubahan",
+      "Membiarkan karena sudah terpublikasi",
+      "Menurunkan sementara tampilan data yang keliru dari dashboard publik sambil menunggu proses koreksi resmi"
+    ],
+    "answer_idx": 2,
+    "explanation": "TIK, profesionalisme, dan integritas termasuk kompetensi yang relevan bagi ASN.",
+    "scores": [
+      3,
+      1,
+      5,
+      2,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-092",
+    "category": "TKP",
+    "question": "Rekan meminta kata sandi akun dinas Anda agar dapat menyelesaikan tugas. Anda sebaiknya ....",
+    "options": [
+      "Memberikannya karena rekan satu tim",
+      "Menolak berbagi kata sandi dan membantu memperoleh akses resmi yang sesuai",
+      "Menuliskannya di papan kerja",
+      "Menggunakan satu akun bersama untuk seluruh tim",
+      "Menolak memberikan kata sandi, lalu membantu mengerjakan tugas yang mendesak itu bersama-sama tanpa membagikan akses"
+    ],
+    "answer_idx": 1,
+    "explanation": "dimensi TIK dan profesionalisme dalam TKP menuntut penggunaan teknologi secara bertanggung jawab.",
+    "scores": [
+      4,
+      5,
+      2,
+      1,
+      3
+    ]
+  },
+  {
+    "item_id": "skd110-093",
+    "category": "TKP",
+    "question": "Rapat daring membahas informasi terbatas. Anda sebaiknya ....",
+    "options": [
+      "Memastikan peserta berwenang, menggunakan platform resmi, dan tidak membagikan tautan sembarangan",
+      "Menyiarkan rapat melalui media sosial",
+      "Merekam dan mengunggahnya ke penyimpanan publik",
+      "Mengizinkan semua orang bergabung tanpa verifikasi",
+      "Mengaktifkan ruang tunggu dan mengunci rapat setelah seluruh peserta yang berwenang bergabung"
+    ],
+    "answer_idx": 0,
+    "explanation": "teknologi informasi dan komunikasi serta profesionalisme merupakan dimensi TKP.",
+    "scores": [
+      5,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-094",
+    "category": "TKP",
+    "question": "Sebuah aplikasi otomatis menghasilkan keputusan yang merugikan beberapa pemohon. Langkah terbaik adalah ....",
+    "options": [
+      "Menganggap hasil mesin selalu benar",
+      "Menghapus seluruh data pemohon",
+      "Menyalahkan vendor tanpa pemeriksaan",
+      "Meninjau aturan dan data, menghentikan dampak bermasalah, serta menyediakan pemeriksaan manusia sesuai kewenangan",
+      "Menangguhkan sementara penggunaan aplikasi untuk kasus-kasus yang terdampak sampai hasil peninjauan selesai"
+    ],
+    "answer_idx": 3,
+    "explanation": "TIK, pelayanan publik, dan profesionalisme sama-sama tercakup dalam kompetensi TKP.",
+    "scores": [
+      2,
+      1,
+      3,
+      5,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-095",
+    "category": "TKP",
+    "question": "Atasan memberi instruksi lisan yang tampak bertentangan dengan aturan. Anda sebaiknya ....",
+    "options": [
+      "Langsung melaksanakan tanpa bertanya",
+      "Meminta klarifikasi dan dasar hukum, lalu mengikuti prosedur eskalasi bila konflik tetap ada",
+      "Menolak dengan emosi di depan umum",
+      "Menyebarkan instruksi tersebut ke media sosial",
+      "Meminta atasan memberikan instruksi secara tertulis agar ada kejelasan tanggung jawab sebelum melaksanakannya"
+    ],
+    "answer_idx": 1,
+    "explanation": "profesionalisme dan integritas menjadi kompetensi SKD; ASN harus menjalankan tugas secara profesional dan bersih.",
+    "scores": [
+      3,
+      5,
+      2,
+      1,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-096",
+    "category": "TKP",
+    "question": "Anda membuat kesalahan yang memengaruhi laporan tim. Sikap terbaik adalah ....",
+    "options": [
+      "Menyembunyikan kesalahan",
+      "Menyalahkan sistem",
+      "Segera mengakui, memperbaiki, memberi tahu pihak terkait, dan mencegah pengulangan",
+      "Menunggu sampai orang lain menemukannya",
+      "Mendokumentasikan kesalahan dan langkah perbaikannya sebagai bahan pembelajaran bagi tim"
+    ],
+    "answer_idx": 2,
+    "explanation": "integritas menekankan kejujuran, komitmen, dan konsistensi; profesionalisme termasuk dimensi TKP.",
+    "scores": [
+      1,
+      3,
+      5,
+      2,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-097",
+    "category": "TKP",
+    "question": "Dua tugas penting memiliki tenggat hampir bersamaan. Anda sebaiknya ....",
+    "options": [
+      "Menentukan prioritas berdasarkan dampak dan tenggat, mengomunikasikan rencana, lalu mengeksekusinya",
+      "Mengerjakan yang paling disukai",
+      "Menunda keduanya",
+      "Menyerahkan semua tugas tanpa koordinasi",
+      "Mengajukan perpanjangan tenggat yang realistis untuk salah satu tugas setelah menilai prioritasnya"
+    ],
+    "answer_idx": 0,
+    "explanation": "profesionalisme merupakan salah satu dimensi TKP.",
+    "scores": [
+      5,
+      3,
+      2,
+      1,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-098",
+    "category": "TKP",
+    "question": "Rekan meminta Anda menandatangani dokumen yang belum diperiksa karena ia terburu-buru. Anda sebaiknya ....",
+    "options": [
+      "Menandatangani karena percaya kepadanya",
+      "Meminta imbalan untuk menanggung risiko",
+      "Menolak semua dokumen darinya pada masa depan",
+      "Memeriksa sesuai tanggung jawab dan hanya menandatangani setelah persyaratan terpenuhi",
+      "Meminta rekan menjelaskan isi dokumen, memeriksa poin-poin pentingnya, dan menandatangani hanya setelah yakin tidak ada masalah"
+    ],
+    "answer_idx": 3,
+    "explanation": "profesionalisme dan integritas menuntut tanggung jawab, kejujuran, serta kepatuhan pada prosedur.",
+    "scores": [
+      3,
+      1,
+      2,
+      5,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-099",
+    "category": "TKP",
+    "question": "Anda belum menguasai metode analisis yang diperlukan untuk tugas baru. Langkah terbaik adalah ....",
+    "options": [
+      "Mengarang hasil agar tugas selesai",
+      "Belajar dari sumber tepercaya, meminta arahan, dan menguji hasil sebelum digunakan",
+      "Menolak tugas tanpa penjelasan",
+      "Menyalin hasil lama meskipun konteks berbeda",
+      "Mengikuti pelatihan atau kursus singkat mengenai metode analisis tersebut"
+    ],
+    "answer_idx": 1,
+    "explanation": "profesionalisme merupakan materi TKP dan berkaitan dengan pelaksanaan tugas ASN yang profesional.",
+    "scores": [
+      1,
+      5,
+      3,
+      2,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-100",
+    "category": "TKP",
+    "question": "Dalam rapat, gagasan Anda dikritik dengan data yang kuat. Anda sebaiknya ....",
+    "options": [
+      "Mempertahankan gagasan demi harga diri",
+      "Menyerang pribadi pengkritik",
+      "Mengevaluasi kritik, memperbaiki usulan, dan mengakui bukti yang lebih baik",
+      "Keluar dari rapat",
+      "Meminta waktu untuk mempelajari data yang disampaikan sebelum memberikan tanggapan"
+    ],
+    "answer_idx": 2,
+    "explanation": "profesionalisme dan jejaring kerja termasuk dimensi TKP.",
+    "scores": [
+      3,
+      1,
+      5,
+      2,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-101",
+    "category": "TKP",
+    "question": "Agar target cepat tercapai, rekan mengusulkan melewati satu tahap verifikasi wajib. Anda sebaiknya ....",
+    "options": [
+      "Menolak melewati tahap wajib dan mencari efisiensi yang tetap sesuai prosedur",
+      "Menyetujui karena target lebih penting",
+      "Menghapus catatan verifikasi",
+      "Meminta rekan menanggung seluruh risiko",
+      "Melaporkan usulan pelanggaran prosedur tersebut kepada atasan atau unit pengawas"
+    ],
+    "answer_idx": 0,
+    "explanation": "profesionalisme dan integritas dalam SKD menuntut konsistensi serta pelaksanaan tugas yang bersih dan bertanggung jawab.",
+    "scores": [
+      5,
+      3,
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-102",
+    "category": "TKP",
+    "question": "Anda selesai mengerjakan tugas lebih cepat daripada anggota tim lain. Tindakan terbaik adalah ....",
+    "options": [
+      "Berhenti bekerja sampai tenggat",
+      "Mengumumkan bahwa Anda paling produktif",
+      "Mengambil alih tugas orang lain tanpa izin",
+      "Memeriksa kualitas hasil dan menawarkan bantuan secara terkoordinasi",
+      "Memanfaatkan waktu yang tersisa untuk meningkatkan kompetensi yang relevan dengan pekerjaan"
+    ],
+    "answer_idx": 3,
+    "explanation": "profesionalisme dan jejaring kerja merupakan dimensi TKP.",
+    "scores": [
+      2,
+      1,
+      3,
+      5,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-103",
+    "category": "TKP",
+    "question": "Anda menerima pesan grup yang mengajak membenci kelompok agama tertentu. Tindakan terbaik adalah ....",
+    "options": [
+      "Meneruskannya agar orang lain waspada",
+      "Tidak ikut menyebarkan, menyimpan bukti bila perlu, dan melaporkan melalui kanal yang tepat",
+      "Membalas dengan ujaran kebencian terhadap pengirim",
+      "Menganggapnya sekadar hiburan",
+      "Keluar dari grup tersebut dan memblokir kontak pengirimnya"
+    ],
+    "answer_idx": 1,
+    "explanation": "anti-radikalisme dan sosial budaya termasuk dimensi TKP; Bhinneka Tunggal Ika merupakan bagian dari pilar negara dalam TWK.",
+    "scores": [
+      1,
+      5,
+      4,
+      2,
+      3
+    ]
+  },
+  {
+    "item_id": "skd110-104",
+    "category": "TKP",
+    "question": "Seorang rekan mengajak menggunakan fasilitas kantor untuk kegiatan politik partisan. Anda sebaiknya ....",
+    "options": [
+      "Mengikuti selama di luar jam kerja",
+      "Membantu tanpa menggunakan nama instansi",
+      "Menolak dan mengingatkan kewajiban netralitas serta aturan penggunaan fasilitas",
+      "Membiarkan fasilitas dipakai oleh kelompok yang paling banyak pendukungnya",
+      "Melaporkan ajakan tersebut kepada atasan atau unit pengawas sesuai ketentuan"
+    ],
+    "answer_idx": 2,
+    "explanation": "ASN harus profesional, bebas dari intervensi politik, dan bersih dari KKN.",
+    "scores": [
+      2,
+      3,
+      5,
+      1,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-105",
+    "category": "TKP",
+    "question": "Anda menemukan materi daring yang mendorong kekerasan terhadap pemerintah dan warga. Tindakan terbaik adalah ....",
+    "options": [
+      "Tidak menyebarkan, menghindari interaksi yang memperluas jangkauan, dan melaporkan melalui kanal resmi",
+      "Membagikannya dengan komentar bercanda",
+      "Mengundang pembuatnya ke grup kantor",
+      "Menyimpan dan menggunakannya untuk mengancam orang lain",
+      "Mengingatkan orang-orang di sekitar agar tidak ikut menyebarkan konten serupa"
+    ],
+    "answer_idx": 0,
+    "explanation": "anti-radikalisme menjadi salah satu dimensi TKP.",
+    "scores": [
+      5,
+      2,
+      4,
+      1,
+      3
+    ]
+  },
+  {
+    "item_id": "skd110-106",
+    "category": "TKP",
+    "question": "Teman dekat meminta data internal untuk menyerang lawan politiknya. Anda sebaiknya ....",
+    "options": [
+      "Memberikan sebagian data",
+      "Menjual data tersebut",
+      "Memberikan petunjuk tanpa menyerahkan dokumen",
+      "Menolak, menjaga kerahasiaan, dan melaporkan permintaan mencurigakan sesuai prosedur",
+      "Menolak permintaan itu dan mengarahkannya mengajukan permohonan informasi melalui mekanisme resmi (PPID) bila datanya bersifat publik"
+    ],
+    "answer_idx": 3,
+    "explanation": "netralitas, profesionalisme, integritas, dan penggunaan TIK secara bertanggung jawab merupakan tuntutan bagi ASN.",
+    "scores": [
+      3,
+      1,
+      2,
+      5,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-107",
+    "category": "TKP",
+    "question": "Dalam diskusi kantor, seseorang menyatakan kelompok tertentu tidak layak menerima pelayanan. Respons terbaik adalah ....",
+    "options": [
+      "Menyetujui demi menghindari konflik",
+      "Menegaskan layanan harus diberikan sesuai hak dan aturan tanpa diskriminasi",
+      "Membiarkan unit lain memutuskan berdasarkan identitas",
+      "Menghentikan seluruh pelayanan",
+      "Mengingatkan bahwa pernyataan diskriminatif bertentangan dengan kode etik ASN dan dapat dikenai sanksi"
+    ],
+    "answer_idx": 1,
+    "explanation": "pelayanan publik, sosial budaya, dan anti-radikalisme termasuk dimensi TKP; UU Pelayanan Publik mengatur hak masyarakat dalam layanan.",
+    "scores": [
+      2,
+      5,
+      3,
+      1,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-108",
+    "category": "TKP",
+    "question": "Pegawai baru mulai mengikuti akun yang menyebarkan propaganda kekerasan dan meminta pendapat Anda. Tindakan terbaik adalah ....",
+    "options": [
+      "Menyarankan agar ia membagikan semua konten untuk diuji",
+      "Mengabaikannya karena aktivitas pribadi",
+      "Mengajak menilai sumber secara kritis, menghentikan penyebaran, dan menggunakan kanal pelaporan bila kontennya melanggar aturan",
+      "Mempermalukannya di depan seluruh kantor",
+      "Menceritakan contoh kasus pegawai yang terkena sanksi karena terlibat penyebaran konten radikal sebagai peringatan"
+    ],
+    "answer_idx": 2,
+    "explanation": "anti-radikalisme dan TIK termasuk dimensi TKP.",
+    "scores": [
+      1,
+      3,
+      5,
+      2,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-109",
+    "category": "TKP",
+    "question": "Anda mengetahui ada tekanan kepada pegawai untuk mendukung kandidat tertentu. Tindakan paling tepat adalah ....",
+    "options": [
+      "Mendokumentasikan secara bertanggung jawab dan melaporkan melalui mekanisme resmi",
+      "Mengikuti tekanan agar aman",
+      "Mengajak pegawai lain membalas dengan kampanye kandidat lawan",
+      "Menyebarkan rumor tanpa bukti",
+      "Menolak tekanan tersebut secara tegas dan menyimpan bukti-bukti yang relevan dengan aman"
+    ],
+    "answer_idx": 0,
+    "explanation": "UU ASN menuntut ASN bebas dari intervensi politik; integritas dan profesionalisme juga menjadi kompetensi SKD.",
+    "scores": [
+      5,
+      3,
+      2,
+      1,
+      4
+    ]
+  },
+  {
+    "item_id": "skd110-110",
+    "category": "TKP",
+    "question": "Dalam forum warga muncul perbedaan tajam yang berpotensi memicu kekerasan. Sebagai petugas, Anda sebaiknya ....",
+    "options": [
+      "Memihak kelompok terbesar",
+      "Membubarkan forum tanpa mencoba menenangkan situasi",
+      "Membiarkan konflik berkembang agar terlihat pihak yang kuat",
+      "Menenangkan situasi, menegakkan aturan secara adil, dan memfasilitasi dialog tanpa membenarkan kekerasan",
+      "Meminta bantuan aparat keamanan bila situasi sudah di luar kendali, sambil tetap berupaya menenangkan"
+    ],
+    "answer_idx": 3,
+    "explanation": "",
+    "scores": [
+      2,
+      3,
+      1,
+      5,
+      4
+    ]
+  }
+]

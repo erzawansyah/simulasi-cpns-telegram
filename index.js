@@ -1,31 +1,30 @@
 'use strict';
 /**
- * index.js — entry point. Polling default; webhook opsional via env.
+ * index.js — entry point Simulasi CPNS 2027.
+ *
+ * BOT_MODE=polling  -> bot.launch()
+ * BOT_MODE=webhook  -> express + route /webhook/<token>, GET / = status
  */
-const bot = require('./bot');
+require('dotenv').config();
+const bot = require('./bot'); // inisialisasi db + middleware + my_chat_member
 
-// Daftarkan semua command (setiap file mendaftarkan handler-nya sendiri)
+// Daftarkan semua command
 require('./commands/akun');
 require('./commands/latihan');
 require('./commands/simulasi');
-require('./commands/tambah');
+require('./commands/harian');
+require('./commands/papan');
+require('./commands/sumbang');
+require('./commands/admin');
 
-// Laporan error: ke admin HANYA jika ADMIN_CHAT_IDS diisi (tidak ada spy-log pesan user)
-const admins = (process.env.ADMIN_CHAT_IDS || '').split(',').map((s) => s.trim()).filter(Boolean);
-bot.catch((err, ctx) => {
-  console.error('[bot] error:', err);
-  const info = `Error pada update ${ctx.updateType || '?'} dari user ${ctx.from?.id || '?'}`;
-  for (const id of admins) {
-    bot.telegram.sendMessage(id, `BOT ERROR\n${info}\n${String(err.message || err).slice(0, 300)}`).catch(() => {});
-  }
-});
+const { startScheduler } = require('./scheduler');
 
 process.once('SIGINT', () => bot.stop('SIGINT'));
 process.once('SIGTERM', () => bot.stop('SIGTERM'));
 
 (async () => {
   const mode = (process.env.BOT_MODE || 'polling').toLowerCase();
-  // Validasi token dengan getMe sebelum launch — gagal cepat dengan pesan jelas
+
   try {
     const me = await bot.telegram.getMe();
     console.log(`[bot] login sebagai @${me.username}`);
@@ -33,19 +32,41 @@ process.once('SIGTERM', () => bot.stop('SIGTERM'));
     console.error('[bot] FATAL: token tidak valid / tidak bisa hubungi Telegram:', e.message);
     process.exit(1);
   }
+
+  startScheduler(bot);
+
   if (mode === 'webhook') {
     const url = (process.env.PUBLIC_URL || '').replace(/\/$/, '');
     const port = Number(process.env.PORT || 3000);
+    const token = process.env.BOT_TOKEN;
     if (!url) { console.error('[bot] FATAL: BOT_MODE=webhook butuh PUBLIC_URL.'); process.exit(1); }
-    const secret = `bot${process.env.BOT_TOKEN.split(':')[0]}`;
-    await bot.telegram.setWebhook(`${url}/${secret}`);
+
+    await bot.telegram.setWebhook(`${url}/webhook/${token}`);
     const express = require('express');
     const app = express();
-    app.use(bot.webhookCallback(`/${secret}`));
-    app.get('/', (_, res) => res.send('Simulasi CPNS Bot aktif (webhook)'));
+    // Route memuat token penuh — path itu sendiri yang menjadi rahasia.
+    // webhookCallback memfilter berdasarkan req.url, jadi dipasang di root
+    // (bukan app.use(hookPath, ...) yang membuat express memotong prefix).
+    const hookPath = `/webhook/${token}`;
+    app.get('/', (_, res) => res.send('Simulasi CPNS 2027 aktif (webhook)'));
+    app.use(bot.webhookCallback(hookPath));
     app.listen(port, () => console.log(`[bot] webhook di :${port}`));
   } else {
+    // Hapus webhook HANYA jika memang terpasang; jangan buang update pending
+    // (drop_pending_updates=true bikin command user yang dikirim saat restart hilang).
+    try {
+      const wh = await bot.telegram.getWebhookInfo();
+      if (wh && wh.url) {
+        await bot.telegram.deleteWebhook();
+        console.log('[bot] webhook dicabut, beralih ke polling');
+      }
+    } catch (e) {
+      console.error('[bot] getWebhookInfo/deleteWebhook gagal:', e.message);
+    }
     await bot.launch();
     console.log('[bot] polling jalan. Tekan Ctrl+C untuk berhenti.');
   }
-})();
+})().catch((e) => {
+  console.error('[bot] FATAL:', e);
+  process.exit(1);
+});

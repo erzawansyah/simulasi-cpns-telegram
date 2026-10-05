@@ -1,0 +1,4 @@
+category,subcategory,difficulty,question,option_a,option_b,option_c,option_d,option_e,answer_idx,scores,explanation
+TWK,nasionalisme,1,"Contoh: Semboyan Bhinneka Tunggal Ika terdapat dalam kitab ...",Negarakertagama,Sutasoma,Pararaton,Arjunawiwaha,,1,,"Bhinneka Tunggal Ika berasal dari kitab Sutasoma karya Mpu Tantular."
+TIU,aritmetika,2,"Contoh: Jika 3x + 5 = 20, maka nilai x adalah ...",3,4,5,6,7,2,,"3x = 15, x = 5."
+TKP,pelayanan-publik,2,"Contoh: Atasan memintamu mengerjakan tugas di luar jobdesk saat tenggat mepet. Sikapmu?","Menolak karena bukan tugasku","Menerima dengan terpaksa","Menerima dan mengerjakan sebaik mungkin","Meminta rekan lain mengerjakan","Menunda sampai tugas utama selesai",2,"1;2;5;3;4","Opsi C mencerminkan integritas dan orientasi pelayanan terbaik (bobot 5)."
