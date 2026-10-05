@@ -1,68 +1,51 @@
-const bot = require("./bot");
-const express = require("express");
-const expressApp = express();
+'use strict';
+/**
+ * index.js — entry point. Polling default; webhook opsional via env.
+ */
+const bot = require('./bot');
 
-const PORT = process.env.PORT;
-const URL = process.env.URL;
-const BOT_TOKEN = process.env.BOT_TOKEN;
+// Daftarkan semua command (setiap file mendaftarkan handler-nya sendiri)
+require('./commands/akun');
+require('./commands/latihan');
+require('./commands/simulasi');
+require('./commands/tambah');
 
-// Menangkap error dan mengirimnya ke grup telegram
+// Laporan error: ke admin HANYA jika ADMIN_CHAT_IDS diisi (tidak ada spy-log pesan user)
+const admins = (process.env.ADMIN_CHAT_IDS || '').split(',').map((s) => s.trim()).filter(Boolean);
 bot.catch((err, ctx) => {
-  if (err) throw new Error(err);
-  console.log(ctx);
-  console.log(`Ooops, encountered an error for ${ctx.updateType}`, err);
+  console.error('[bot] error:', err);
+  const info = `Error pada update ${ctx.updateType || '?'} dari user ${ctx.from?.id || '?'}`;
+  for (const id of admins) {
+    bot.telegram.sendMessage(id, `BOT ERROR\n${info}\n${String(err.message || err).slice(0, 300)}`).catch(() => {});
+  }
 });
 
-bot.on("message", (ctx, next) => {
-  bot.telegram.sendMessage(
-    "-539939971",
-    `
-${ctx.from.username} mengirim pesan berisi:
-${ctx.message.text}
-    `
-  );
-  next();
-});
+process.once('SIGINT', () => bot.stop('SIGINT'));
+process.once('SIGTERM', () => bot.stop('SIGTERM'));
 
-[
-  // Membaca semua file yang berada di folder Commands
-  "start",
-  "tanya",
-  "help",
-  "penjelasan",
-  "saya",
-  "riwayat",
-  "daftar",
-  "tanya_twk",
-  "hapus",
-  "tanya_tiu",
-  "tanya_tkp",
-  "referensi",
-  "berita",
-  "masukan",
-  "tambah",
-  "test",
-].forEach((command) => {
-  require(`./commands/${command}`);
-});
-
-/*
- your bot commands and all the other stuff on here ....
-*/
-// and at the end just start server on PORT
-
-bot.telegram.setWebhook(`${URL}/bot${BOT_TOKEN}`);
-expressApp.use(bot.webhookCallback(`/bot${BOT_TOKEN}`));
-
-expressApp.get("/", (req, res) => {
-  res.send("Eh buset");
-});
-expressApp.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
-
-bot.launch();
-
-// Enable graceful stop
-process.once("SIGINT", () => bot.stop("SIGINT"));
-process.once("SIGTERM", () => bot.stop("SIGTERM"));
+(async () => {
+  const mode = (process.env.BOT_MODE || 'polling').toLowerCase();
+  // Validasi token dengan getMe sebelum launch — gagal cepat dengan pesan jelas
+  try {
+    const me = await bot.telegram.getMe();
+    console.log(`[bot] login sebagai @${me.username}`);
+  } catch (e) {
+    console.error('[bot] FATAL: token tidak valid / tidak bisa hubungi Telegram:', e.message);
+    process.exit(1);
+  }
+  if (mode === 'webhook') {
+    const url = (process.env.PUBLIC_URL || '').replace(/\/$/, '');
+    const port = Number(process.env.PORT || 3000);
+    if (!url) { console.error('[bot] FATAL: BOT_MODE=webhook butuh PUBLIC_URL.'); process.exit(1); }
+    const secret = `bot${process.env.BOT_TOKEN.split(':')[0]}`;
+    await bot.telegram.setWebhook(`${url}/${secret}`);
+    const express = require('express');
+    const app = express();
+    app.use(bot.webhookCallback(`/${secret}`));
+    app.get('/', (_, res) => res.send('Simulasi CPNS Bot aktif (webhook)'));
+    app.listen(port, () => console.log(`[bot] webhook di :${port}`));
+  } else {
+    await bot.launch();
+    console.log('[bot] polling jalan. Tekan Ctrl+C untuk berhenti.');
+  }
+})();
