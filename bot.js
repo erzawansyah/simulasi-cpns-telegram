@@ -1,10 +1,12 @@
-const setenv = require("dotenv");
-const { Telegraf } = require("telegraf");
+'use strict';
+require('dotenv').config();
+const { Telegraf } = require('telegraf');
 
-// Panggil .env variable
-setenv.config();
+const token = process.env.BOT_TOKEN;
+if (!token || token.includes('ISI_')) {
+  console.error('FATAL: BOT_TOKEN belum diisi. Salin .env.example menjadi .env lalu isi token bot dari @BotFather.');
+  process.exit(1);
+}
 
-const BOT_TOKEN = process.env.BOT_TOKEN;
-// Memanggil instance yang diperlukan
-const bot = new Telegraf(BOT_TOKEN);
+const bot = new Telegraf(token);
 module.exports = bot;
